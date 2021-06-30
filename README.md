@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SMNAFI
-- 👀 I’m interested in computer programming and new technologies.
-- 🌱 I’m currently learning how to build an awesome and interactive web application with ReactJS
+- 👀 I’m interested in programming and new technologies that can make an impact on better human life.
+- 🌱 I’m currently learning how to build an awesome and interactive web application with ReactJS.
 - 📫 You can reach me through sayem.md.nafi@gmail.com
 
 <!---
